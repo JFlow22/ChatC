@@ -1,0 +1,13 @@
+﻿  server.c
+c:\users\jorde\source\repos\chatserver\chatserver\transmissionheader.h(40): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+c:\users\jorde\source\repos\chatserver\chatserver\transmissionheader.h(42): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+c:\users\jorde\source\repos\chatserver\chatserver\encryption.h(63): warning C4047: 'function': 'PUCHAR' differs in levels of indirection from 'const BYTE (*)[16]'
+c:\users\jorde\source\repos\chatserver\chatserver\encryption.h(63): warning C4024: 'BCryptGenerateSymmetricKey': different types for formal and actual parameter 5
+c:\users\jorde\source\repos\chatserver\chatserver\communicationapi.h(28): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+c:\users\jorde\source\repos\chatserver\chatserver\communicationapi.h(110): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+c:\users\jorde\source\repos\chatserver\server.c(876): warning C4033: 'JoinChatRoom' must return a value
+c:\users\jorde\source\repos\chatserver\server.c(883): warning C4033: 'JoinChatRoom' must return a value
+c:\users\jorde\source\repos\chatserver\server.c(859): warning C4101: 'lpsNewChatMessage': unreferenced local variable
+c:\users\jorde\source\repos\chatserver\server.c(1017): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+c:\users\jorde\source\repos\chatserver\server.c(887): warning C4715: 'JoinChatRoom': not all control paths return a value
+  ChatServer.vcxproj -> C:\Users\jorde\source\repos\ChatServer\Debug\ChatServer.exe

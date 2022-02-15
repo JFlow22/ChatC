@@ -1,0 +1,11 @@
+﻿  server.c
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\ChatServer\TransmissionHeader.h(40,35): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\ChatServer\TransmissionHeader.h(42,42): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\ChatServer\Encryption.h(64,1): warning C4047: 'function': 'PUCHAR' differs in levels of indirection from 'const BYTE (*)[16]'
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\ChatServer\Encryption.h(64,1): warning C4024: 'BCryptGenerateSymmetricKey': different types for formal and actual parameter 5
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\ChatServer\CommunicationAPI.h(28,54): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\ChatServer\CommunicationAPI.h(110,61): warning C4244: '=': conversion from 'DWORD' to 'CHAR', possible loss of data
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\server.c(1139,61): warning C4133: '=': incompatible types - from 'chatRoom_t *' to 'chatRoomList_t *'
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\server.c(1152,62): warning C4133: '=': incompatible types - from 'chatRoom_t *' to 'chatRoomList_t *'
+C:\Users\pc-1\Desktop\chat renewd\ChatServer\server.c(1156,61): warning C4133: '=': incompatible types - from 'chatRoom_t *' to 'chatRoomList_t *'
+  ChatServer.vcxproj -> C:\Users\pc-1\Desktop\chat renewd\ChatServer\x64\Debug\ChatServer.exe
